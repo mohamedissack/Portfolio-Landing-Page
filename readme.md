@@ -1,3 +1,0 @@
-git remote add origin https://github.com/mohamedissack/Portfolio-Landing-Page.git
-fgvhbjkhcgxfgchvjbknjhgxfgchvjbknbjvhcggchvjb
-ugjbhgcfcgvhbjknjhfgdfsxdgchvjbkn
