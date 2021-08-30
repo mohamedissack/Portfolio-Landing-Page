@@ -1,4 +1,4 @@
-## Photography-Website
+## Portfolio-Landing-Website
 ## Description
 This is a  project dedicated to my favorite list of photos
 ## Demo
@@ -6,4 +6,8 @@ Here is a working live demo:
 
 ## Mobile support
 The  website is compatible with devices of all sizes 
+## Development
+Want to contribute? Awesome!
+To fix a bug or enhance an existing module, follow these steps:
+- Fork the repo
 
