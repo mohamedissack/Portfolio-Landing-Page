@@ -1,6 +1,6 @@
 ## Portfolio-Landing-Website
 ## Description
-This is a  project dedicated to my favorite list of photos
+This is  a portfolio page containing all about me
 ## Demo
 Here is a working live demo: 
 
