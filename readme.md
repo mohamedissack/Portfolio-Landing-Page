@@ -1,6 +1,6 @@
 ## Portfolio-Landing-Website
 ## Description
-This is  a portfolio page containing all about me
+This is  a portfolio page containing all about me.
 ## Demo
 Here is a working live demo: 
 
